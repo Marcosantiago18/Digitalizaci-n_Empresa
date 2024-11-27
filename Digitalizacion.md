@@ -1,6 +1,9 @@
 # Digitalización de una empresa: Zona naútica
 
 ## Indice
+### 1.Introducción a la digitalización
+### 2.Impacto organizativo
+### 3. Diferencias entre IT y OT
 
 
 ## 1.Introducción a la digitalización 
