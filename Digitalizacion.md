@@ -110,7 +110,7 @@ En el contexto de nuestra empresa , IT(Tecnologías de la información) y OT(Tec
 Se centra en la gestión y procesamiento de la información. Incluye sistemas digitales, redes, bases de datos y aplicaciones de software que facilitan la administración y la toma de decisiones
 Sus principales funciones son la gestion de reservas en la plataforma online, facturación automatizada, almacenamiento de datos de clientes y flota en bases de datos seguras, promociones digitales y marketing.
 
-## OT
+### OT
 Esta abarca los sistemas y tecnologias que operan y monitorean los equipos físicos. En una empresa náutica, OT se ocupa del funcionamiento de las embarcaciones y los sistemas asociados
 Sus funciones claves son el monitoreo del estado de los vehículos en tiempo real, control del mantenimiento preventivo y predictivo y la gestión de la seguridad mediante sensores y automatización.
 
